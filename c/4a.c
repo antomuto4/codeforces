@@ -1,6 +1,7 @@
 /* 
 Memory 4KB
 Time 62ms
+https://codeforces.com/problemset/submission/4/103589601
 */
 
 #include <stdio.h>
