@@ -1,2 +1,2 @@
 # codeforces
-Competitive Programming go hihi real fast
+improving my knowledge with competitive programming 
